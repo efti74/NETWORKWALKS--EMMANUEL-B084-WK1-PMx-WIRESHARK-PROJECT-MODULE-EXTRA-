@@ -55,37 +55,37 @@ Screenshots are arranged in order from Lab 3 through Lab 8.
 
 ### Lab 3 — Identify the Attacker’s IP
 
-![Lab 3 result showing 100/100](assets/lab-03-identify-attackers-ip.png)
+![Lab 3 result showing 100/100](assets/Lab%203%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ### Lab 4 — Follow TCP Stream
 
-![Lab 4 result showing 100/100](assets/lab-04-follow-tcp-stream.png)
+![Lab 4 result showing 100/100](assets/Lab%204%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ### Lab 5 — Follow TCP Stream, Part 2
 
-![Lab 5 result showing 100/100](assets/lab-05-follow-tcp-stream-part-2.png)
+![Lab 5 result showing 100/100](assets/Lab%205%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ### Lab 6 — HTTP Plain Text Credentials
 
-![Lab 6 result showing 100/100](assets/lab-06-http-plaintext-credentials.png)
+![Lab 6 result showing 100/100](assets/Lab%206%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ### Lab 7 — Brute Force Catch
 
-![Lab 7 result showing 100/100](assets/lab-07-brute-force-catch.png)
+![Lab 7 result showing 100/100](assets/ Lab%207%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ### Lab 8 — VoIP Call Replay
 
-![Lab 8 result showing 100/100](assets/lab-08-voip-call-replay.png)
+![Lab 8 result showing 100/100](assets/Lab%208%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ## 📝 Wireshark Quiz Results
 
 ### Wireshark Quiz
 
-![Wireshark quiz result showing 100 percent](assets/wireshark-quiz-100-percent.png)
+![Wireshark quiz result showing 100 percent](assets/Wireshark%20Quiz%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ### Wireshark Quiz — Advanced Level
 
-![Advanced-level Wireshark quiz result showing 100 percent](assets/wireshark-advanced-quiz-100-percent.png)
+![Advanced-level Wireshark quiz result showing 100 percent](assets/Wireshark%20Advanced-Level%20Quiz%20Result%20-%20Md%20Sibgatur%20Rahman%20Efti.png)
 
 ## 🔐 SOC Analyst Takeaways
 
